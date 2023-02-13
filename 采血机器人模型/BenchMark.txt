@@ -1,0 +1,10 @@
+CreateMesh Start 9.2e+02 CB 0m 0m 8
+CreateMesh End 9.2e+02 
+CreateMesh Start 9.2e+02 STD 0.0132078m 0.000660391m
+CreateMesh End 9.2e+02 
+CreateMesh Start 9.2e+02 STD 0.0132078m 0.000660391m
+CreateMesh End 9.2e+02 
+CreateMesh Start 9.2e+02 STD 0.0132078m 0.000660391m
+CreateMesh End 9.2e+02 
+CreateMesh Start 9.2e+02 STD 0.0132078m 0.000660391m
+CreateMesh End 9.2e+02 
